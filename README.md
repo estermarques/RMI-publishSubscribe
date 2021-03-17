@@ -2,7 +2,7 @@
 Alunos:
 - Emerson Teixeira Nogueira Junior
 - Ester Rodrigues Marques de Oliveira
-- Luiz Gabriel Vieira
+- Luiz Gabriel Vieira Leal
 
 ## Compilação e Execução
 Para compilar o programa basta use o comando:
